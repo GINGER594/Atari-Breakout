@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"c:/Users/oscar/OneDrive/Desktop/C#/Atari Breakout/Atari Breakout/Content/BreakoutFont.spritefont","c:/Users/oscar/OneDrive/Desktop/C#/Atari Breakout/Atari Breakout/Content/bin/DesktopGL/Content/BreakoutFont.xnb","FontDescriptionProcessor","SpriteFontContent",2077,136226,0.198539
+"c:/Users/oscar/OneDrive/Desktop/C#/Atari Breakout/Atari Breakout/Content/BreakoutFontSmall.spritefont","c:/Users/oscar/OneDrive/Desktop/C#/Atari Breakout/Atari Breakout/Content/bin/DesktopGL/Content/BreakoutFontSmall.xnb","FontDescriptionProcessor","SpriteFontContent",2077,70690,0.016825
+"c:/Users/oscar/OneDrive/Desktop/C#/Atari Breakout/Atari Breakout/Content/heart pixel art 254x254.png","c:/Users/oscar/OneDrive/Desktop/C#/Atari Breakout/Atari Breakout/Content/bin/DesktopGL/Content/HeartSprite.xnb","TextureProcessor","Texture2DContent",1849,258149,0.1067317
